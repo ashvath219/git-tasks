@@ -52,6 +52,8 @@ This prevents Git from losing history, which is important for the integrity of y
 - You've now realized that you've pushed something that is not only wrong but also stupid. You regret it so much that you want the commit to vanish altogether. 
 Use reset to **remove this commit**. 
 
+another dummy piece of code added
+
 ## Task 5
 
 - Create a new branch (called Task5) in your fork. Add a dummy piece of code and commit it to this branch. Do this 5 more times. 
